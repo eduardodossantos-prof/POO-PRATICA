@@ -28,6 +28,6 @@ Saída: O programa deve gerar uma saída apenas quando o comando for C (Fazer ca
 - "Erro: Maquina desligada" se o comando for recebido com ela desligada.
 - "Erro: Ingredientes insuficientes" se ela estiver ligada, mas faltar água ou grão.
 - "Cafe servido!" se a operação for um sucesso.
-A
+
 pós processar todos os comandos, imprima um relatório final contendo o total de cafés servidos, a água restante e os grãos restantes, no formato: Total de cafes: [quantidade] Agua: [ml] ml, Graos: [g] g
 
