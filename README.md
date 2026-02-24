@@ -23,7 +23,7 @@ Entrada: A primeira linha da entrada contém um número inteiro N (1 ≤ N ≤ 5
 - C : Tentar fazer um café.
 - A X : Abastecer a máquina com X ml de água.
 - G X : Abastecer a máquina com X gramas de grãos de café.
-- 
+  
 Saída: O programa deve gerar uma saída apenas quando o comando for C (Fazer café). Nesses casos, imprima:
 - "Erro: Maquina desligada" se o comando for recebido com ela desligada.
 - "Erro: Ingredientes insuficientes" se ela estiver ligada, mas faltar água ou grão.
